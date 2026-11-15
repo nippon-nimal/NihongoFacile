@@ -1,0 +1,25 @@
+{
+  "titre": "Mon petit voisin",
+  "phrases": [
+    {
+      "japonais": "みつきは元気ですか？",
+      "romaji": "Mitsuki wa genki desu ka ?",
+      "francais": "Comment va Mitsuki ?"
+    },
+    {
+      "japonais": "はい、元気です。",
+      "romaji": "Hai, genki desu.",
+      "francais": "Mitsuki va bien."
+    },
+    {
+      "japonais": "みつきはどこですか？",
+      "romaji": "Mitsuki wa doko desu ka ?",
+      "francais": "Où est Mitsuki ?"
+    },
+    {
+      "japonais": "みつきは学校にいます。",
+      "romaji": "Mitsuki wa gakkou ni imasu.",
+      "francais": "Mitsuki est à l'école."
+    }
+  ]
+}
