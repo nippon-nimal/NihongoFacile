@@ -1,0 +1,14 @@
+{
+  "lecons": [
+    {
+      "id": "rencontre",
+      "titre": "Rencontre",
+      "fichier": "lecons/rencontre.json"
+    },
+    {
+      "id": "voisin",
+      "titre": "Mon petit voisin",
+      "fichier": "lecons/voisin.json"
+    }
+  ]
+}
