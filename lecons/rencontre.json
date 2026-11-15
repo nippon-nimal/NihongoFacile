@@ -1,0 +1,40 @@
+{
+  "titre": "Rencontre",
+  "phrases": [
+    {
+      "japonais": "どこにいますか？",
+      "romaji": "Doko ni imasu ka ?",
+      "francais": "Où es-tu ?"
+    },
+    {
+      "japonais": "家で会おう。",
+      "romaji": "Ie de aou.",
+      "francais": "Retrouvons-nous à la maison."
+    },
+    {
+      "japonais": "いい天気ですか？",
+      "romaji": "Ii tenki desu ka ?",
+      "francais": "Est-ce qu'il fait beau ?"
+    },
+    {
+      "japonais": "今日はいい天気ですね。",
+      "romaji": "Kyou wa ii tenki desu ne.",
+      "francais": "Il fait beau aujourd'hui, n'est-ce pas ?"
+    },
+    {
+      "japonais": "すぐ帰ります。",
+      "romaji": "Sugu kaerimasu.",
+      "francais": "Je rentre tout de suite."
+    },
+    {
+      "japonais": "ただいま。",
+      "romaji": "Tadaima.",
+      "francais": "Je suis rentré(e)."
+    },
+    {
+      "japonais": "おかえり。",
+      "romaji": "Okaeri.",
+      "francais": "Bon retour !"
+    }
+  ]
+}
