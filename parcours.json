@@ -1,0 +1,16 @@
+{
+  "parcours": [
+    {
+      "id": "fr-jp",
+      "titre": "Japonais pour francophones",
+      "description": "Français · Romaji · Audio japonais",
+      "fichier": "lecons.json"
+    },
+    {
+      "id": "jp-en",
+      "titre": "英語を学ぶ",
+      "description": "日本語 · 英語音声",
+      "fichier": "anglais-japonais.json"
+    }
+  ]
+}
