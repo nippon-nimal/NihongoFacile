@@ -1,0 +1,19 @@
+{
+  "lecons": [
+    {
+      "id": "salutations",
+      "titre": "あいさつ",
+      "fichier": "anglais-japonais/salutations.json"
+    },
+    {
+      "id": "presentation",
+      "titre": "自己紹介",
+      "fichier": "anglais-japonais/presentation.json"
+    },
+    {
+      "id": "quotidien",
+      "titre": "日常会話",
+      "fichier": "anglais-japonais/quotidien.json"
+    }
+  ]
+}
