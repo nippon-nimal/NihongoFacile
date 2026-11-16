@@ -1,0 +1,24 @@
+{
+  "phrases": [
+    {
+      "anglais": "Hello! My name is John.",
+      "japonais": "こんにちは！私の名前はジョンです。"
+    },
+    {
+      "anglais": "What is your name?",
+      "japonais": "お名前は何ですか？"
+    },
+    {
+      "anglais": "Nice to meet you.",
+      "japonais": "はじめまして。"
+    },
+    {
+      "anglais": "I am from France.",
+      "japonais": "フランス出身です。"
+    },
+    {
+      "anglais": "I live in Japan.",
+      "japonais": "日本に住んでいます。"
+    }
+  ]
+}
