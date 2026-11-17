@@ -1,0 +1,26 @@
+{
+  "id": "neighbor",
+  "title": "Mon petit voisin",
+  "phrases": [
+    {
+      "source_text": "Comment va Mitsuki ?",
+      "target_text": "みつきは元気ですか？",
+      "pronunciation": "Mitsuki wa genki desu ka ?"
+    },
+    {
+      "source_text": "Mitsuki va bien.",
+      "target_text": "はい、元気です。",
+      "pronunciation": "Hai, genki desu."
+    },
+    {
+      "source_text": "Où est Mitsuki ?",
+      "target_text": "みつきはどこですか？",
+      "pronunciation": "Mitsuki wa doko desu ka ?"
+    },
+    {
+      "source_text": "Mitsuki est à l'école.",
+      "target_text": "みつきは学校にいます。",
+      "pronunciation": "Mitsuki wa gakkou ni imasu."
+    }
+  ]
+}
