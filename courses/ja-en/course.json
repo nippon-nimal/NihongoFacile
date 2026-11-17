@@ -5,5 +5,10 @@
   "source_language": "ja",
   "target_language": "en",
   "speech_language": "en",
-  "repetitions": 3
+  "repetitions": 3,
+  "lessons": [
+  "lessons/salutations.json",
+  "lessons/presentation.json",
+  "lessons/quotidien.json"
+]
 }
