@@ -1,0 +1,42 @@
+
+{
+  "id": "meeting",
+  "title": "Rencontre",
+  "phrases": [
+    {
+      "source_text": "Où es-tu uu ?",
+      "target_text": "どこにいますか？",
+      "pronunciation": "Doko ni imasu ka ?"
+    },
+    {
+      "source_text": "Retrouvons-nous à la maison.",
+      "target_text": "家で会おう。",
+      "pronunciation": "Ie de aou."
+    },
+    {
+      "source_text": "Est-ce qu'il fait beau ?",
+      "target_text": "いい天気ですか？",
+      "pronunciation": "Ii tenki desu ka ?"
+    },
+    {
+      "source_text": "Il fait beau aujourd'hui, n'est-ce pas ?",
+      "target_text": "今日はいい天気ですね。",
+      "pronunciation": "Kyou wa ii tenki desu ne."
+    },
+    {
+      "source_text": "Je rentre tout de suite.",
+      "target_text": "すぐ帰ります。",
+      "pronunciation": "Sugu kaerimasu."
+    },
+    {
+      "source_text": "Je suis rentré(e).",
+      "target_text": "ただいま。",
+      "pronunciation": "Tadaima."
+    },
+    {
+      "source_text": "Bon retour !",
+      "target_text": "おかえり。",
+      "pronunciation": "Okaeri."
+    }
+  ]
+}
