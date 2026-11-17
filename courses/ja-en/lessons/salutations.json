@@ -1,0 +1,26 @@
+{
+  "id": "salutations",
+  "title": "あいさつ",
+  "phrases": [
+    {
+      "source_text": "おはようございます。",
+      "target_text": "Good morning!"
+    },
+    {
+      "source_text": "こんにちは。",
+      "target_text": "Good afternoon!"
+    },
+    {
+      "source_text": "こんばんは。",
+      "target_text": "Good evening!"
+    },
+    {
+      "source_text": "おやすみなさい。",
+      "target_text": "Good night!"
+    },
+    {
+      "source_text": "また明日！",
+      "target_text": "See you tomorrow!"
+    }
+  ]
+}
