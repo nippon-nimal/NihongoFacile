@@ -1,4 +1,9 @@
 {
   "version": 1,
-  "courses": []
+  "courses": [
+    {
+      "id": "fr-ja",
+      "config": "courses/fr-ja/course.json"
+    }
+  ]
 }
