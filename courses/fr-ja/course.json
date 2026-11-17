@@ -7,7 +7,7 @@
   "speech_language": "ja",
   "repetitions": 3,
   "lessons": [
-  "lessons/meeting.json",
-  "lessons/neighbor.json"
-]
+    "lessons/meeting.json",
+    "lessons/neighbor.json"
+  ]
 }
