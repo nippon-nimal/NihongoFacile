@@ -6,7 +6,7 @@
   "target_language": "ja",
   "speech_language": "ja",
   "repetitions": 3,
-"lessons": [
+  "lessons": [
   "lessons/meeting.json",
   "lessons/neighbor.json"
 ]
