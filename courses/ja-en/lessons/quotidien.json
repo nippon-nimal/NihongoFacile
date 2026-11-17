@@ -1,0 +1,27 @@
+
+{
+  "id": "quotidien",
+  "title": "日常会話",
+  "phrases": [
+    {
+      "source_text": "お元気ですか？",
+      "target_text": "How are you?"
+    },
+    {
+      "source_text": "元気です、ありがとう。",
+      "target_text": "I am fine, thank you."
+    },
+    {
+      "source_text": "何をしていますか？",
+      "target_text": "What are you doing?"
+    },
+    {
+      "source_text": "日本語を勉強しています。",
+      "target_text": "I am studying Japanese."
+    },
+    {
+      "source_text": "また後で！",
+      "target_text": "See you later!"
+    }
+  ]
+}
