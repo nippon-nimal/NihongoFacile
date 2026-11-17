@@ -1,0 +1,27 @@
+
+{
+  "id": "presentation",
+  "title": "自己紹介",
+  "phrases": [
+    {
+      "source_text": "こんにちは！私の名前はジョンです。",
+      "target_text": "Hello! My name is John."
+    },
+    {
+      "source_text": "お名前は何ですか？",
+      "target_text": "What is your name?"
+    },
+    {
+      "source_text": "はじめまして。",
+      "target_text": "Nice to meet you."
+    },
+    {
+      "source_text": "フランス出身です。",
+      "target_text": "I am from France."
+    },
+    {
+      "source_text": "日本に住んでいます。",
+      "target_text": "I live in Japan."
+    }
+  ]
+}
