@@ -4,6 +4,10 @@
     {
       "id": "fr-ja",
       "config": "courses/fr-ja/course.json"
+    },
+    {
+      "id": "ja-en",
+      "config": "courses/ja-en/course.json"
     }
   ]
 }
