@@ -1,0 +1,56 @@
+
+{
+  "title": "自我介紹",
+  "phrases": [
+    {
+      "source_text": "我叫小明。",
+      "target_text": "My name is Xiaoming.",
+      "pronunciation": "my name is SHYOW-ming"
+    },
+    {
+      "source_text": "我來自台灣。",
+      "target_text": "I'm from Taiwan.",
+      "pronunciation": "I'm from tai-WAN"
+    },
+    {
+      "source_text": "我住在台北。",
+      "target_text": "I live in Taipei.",
+      "pronunciation": "I live in TAI-pay"
+    },
+    {
+      "source_text": "我是一名學生。",
+      "target_text": "I'm a student.",
+      "pronunciation": "I'm a STOO-dent"
+    },
+    {
+      "source_text": "我是一名老師。",
+      "target_text": "I'm a teacher.",
+      "pronunciation": "I'm a TEE-cher"
+    },
+    {
+      "source_text": "我在學英文。",
+      "target_text": "I'm learning English.",
+      "pronunciation": "I'm LERN-ing ING-lish"
+    },
+    {
+      "source_text": "我會說一點英文。",
+      "target_text": "I speak a little English.",
+      "pronunciation": "I speak a LIT-tle ING-lish"
+    },
+    {
+      "source_text": "很高興認識你。",
+      "target_text": "Nice to meet you.",
+      "pronunciation": "nice to MEET you"
+    },
+    {
+      "source_text": "你叫什麼名字？",
+      "target_text": "What's your name?",
+      "pronunciation": "what's your NAME"
+    },
+    {
+      "source_text": "你來自哪裡？",
+      "target_text": "Where are you from?",
+      "pronunciation": "where are you FROM"
+    }
+  ]
+}
