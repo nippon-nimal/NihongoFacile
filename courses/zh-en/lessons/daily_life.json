@@ -1,0 +1,56 @@
+
+{
+  "title": "日常生活",
+  "phrases": [
+    {
+      "source_text": "我餓了。",
+      "target_text": "I'm hungry.",
+      "pronunciation": "I'm HUN-gry"
+    },
+    {
+      "source_text": "我渴了。",
+      "target_text": "I'm thirsty.",
+      "pronunciation": "I'm THURS-ty"
+    },
+    {
+      "source_text": "我想喝水。",
+      "target_text": "I'd like some water.",
+      "pronunciation": "I'd like some WA-ter"
+    },
+    {
+      "source_text": "多少錢？",
+      "target_text": "How much is it?",
+      "pronunciation": "how much is IT"
+    },
+    {
+      "source_text": "洗手間在哪裡？",
+      "target_text": "Where is the restroom?",
+      "pronunciation": "where is the REST-room"
+    },
+    {
+      "source_text": "我不懂。",
+      "target_text": "I don't understand.",
+      "pronunciation": "I don't un-der-STAND"
+    },
+    {
+      "source_text": "請說慢一點。",
+      "target_text": "Please speak more slowly.",
+      "pronunciation": "please speak more SLOW-ly"
+    },
+    {
+      "source_text": "可以幫我嗎？",
+      "target_text": "Can you help me?",
+      "pronunciation": "can you HELP me"
+    },
+    {
+      "source_text": "現在幾點？",
+      "target_text": "What time is it?",
+      "pronunciation": "what TIME is it"
+    },
+    {
+      "source_text": "我們走吧！",
+      "target_text": "Let's go!",
+      "pronunciation": "lets GO"
+    }
+  ]
+}
