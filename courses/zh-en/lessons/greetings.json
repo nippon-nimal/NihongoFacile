@@ -5,52 +5,52 @@
     {
       "source_text": "你好。",
       "target_text": "Hello.",
-      "pronunciation": "heh-LOH"
+      "pronunciation": "ㄏㄝˋ ㄌㄡˋ"
     },
     {
       "source_text": "早安。",
       "target_text": "Good morning.",
-      "pronunciation": "good MOR-ning"
+      "pronunciation": "ㄍㄨˋ ㄉ ㄇㄛˋ ㄖㄋㄧㄥ"
     },
     {
       "source_text": "午安。",
       "target_text": "Good afternoon.",
-      "pronunciation": "good af-ter-NOON"
+      "pronunciation": "ㄍㄨˋ ㄉ ㄚˋ ㄈㄊㄜˋ ㄋㄨˋ ㄣ"
     },
     {
       "source_text": "晚安。",
       "target_text": "Good night.",
-      "pronunciation": "good NIGHT"
+      "pronunciation": "ㄍㄨˋ ㄉ ㄋㄞˋ ㄊ"
     },
     {
       "source_text": "再見。",
       "target_text": "Goodbye.",
-      "pronunciation": "good-BYE"
+      "pronunciation": "ㄍㄨˋ ㄉ ㄅㄞˋ"
     },
     {
       "source_text": "謝謝。",
       "target_text": "Thank you.",
-      "pronunciation": "THANK you"
+      "pronunciation": "ㄙㄟㄥˋ ㄎ ㄧㄡˋ"
     },
     {
       "source_text": "不客氣。",
       "target_text": "You're welcome.",
-      "pronunciation": "your WEL-come"
+      "pronunciation": "ㄧㄡˋ ㄦ ㄨㄝˋ ㄌ ㄎㄚˋ ㄇ"
     },
     {
       "source_text": "不好意思。",
       "target_text": "Excuse me.",
-      "pronunciation": "ex-CUSE me"
+      "pronunciation": "ㄧㄎ ㄙ ㄎㄧㄨˋ ㄗ ㄇㄧˋ"
     },
     {
       "source_text": "對不起。",
       "target_text": "I'm sorry.",
-      "pronunciation": "I'm SOR-ry"
+      "pronunciation": "ㄞˋ ㄇ ㄙㄛˋ ㄖㄧ"
     },
     {
       "source_text": "你好嗎？",
       "target_text": "How are you?",
-      "pronunciation": "how are YOU"
+      "pronunciation": "ㄏㄠˋ ㄚˋ ㄦ ㄧㄡˋ"
     }
   ]
 }
