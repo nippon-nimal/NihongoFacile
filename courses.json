@@ -8,6 +8,10 @@
     {
       "id": "ja-en",
       "config": "courses/ja-en/course.json"
+    },
+        {
+      "id": "zh-en",
+      "config": "courses/zh-en/course.json"
     }
   ]
 }
