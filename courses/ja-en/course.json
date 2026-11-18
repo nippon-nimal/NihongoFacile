@@ -8,8 +8,8 @@
   "speech_language": "en",
   "repetitions": 3,
 "lessons": [
-  "courses/ja-en/lessons/salutations.json",
-  "courses/ja-en/lessons/presentation.json",
-  "courses/ja-en/lessons/quotidien.json"
+  "lessons/salutations.json",
+  "lessons/presentation.json",
+  "lessons/quotidien.json"
 ]
 }
