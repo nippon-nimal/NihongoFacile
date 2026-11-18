@@ -6,8 +6,8 @@
   "target_language": "ja",
   "speech_language": "ja",
   "repetitions": 3,
-  "lessons": [
-    "lessons/meeting.json",
-    "lessons/neighbor.json"
-  ]
+"lessons": [
+  "courses/fr-ja/lessons/meeting.json",
+  "courses/fr-ja/lessons/neighbor.json"
+]
 }
