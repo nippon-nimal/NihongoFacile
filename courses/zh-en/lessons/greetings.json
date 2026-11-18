@@ -1,0 +1,56 @@
+
+{
+  "title": "問候與日常禮貌用語",
+  "phrases": [
+    {
+      "source_text": "你好。",
+      "target_text": "Hello.",
+      "pronunciation": "heh-LOH"
+    },
+    {
+      "source_text": "早安。",
+      "target_text": "Good morning.",
+      "pronunciation": "good MOR-ning"
+    },
+    {
+      "source_text": "午安。",
+      "target_text": "Good afternoon.",
+      "pronunciation": "good af-ter-NOON"
+    },
+    {
+      "source_text": "晚安。",
+      "target_text": "Good night.",
+      "pronunciation": "good NIGHT"
+    },
+    {
+      "source_text": "再見。",
+      "target_text": "Goodbye.",
+      "pronunciation": "good-BYE"
+    },
+    {
+      "source_text": "謝謝。",
+      "target_text": "Thank you.",
+      "pronunciation": "THANK you"
+    },
+    {
+      "source_text": "不客氣。",
+      "target_text": "You're welcome.",
+      "pronunciation": "your WEL-come"
+    },
+    {
+      "source_text": "不好意思。",
+      "target_text": "Excuse me.",
+      "pronunciation": "ex-CUSE me"
+    },
+    {
+      "source_text": "對不起。",
+      "target_text": "I'm sorry.",
+      "pronunciation": "I'm SOR-ry"
+    },
+    {
+      "source_text": "你好嗎？",
+      "target_text": "How are you?",
+      "pronunciation": "how are YOU"
+    }
+  ]
+}
