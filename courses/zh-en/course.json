@@ -1,0 +1,15 @@
+
+{
+  "id": "zh-en",
+  "title": "給中文母語者的英語課程",
+  "description": "從繁體中文開始學習英語",
+  "source_language": "zh-TW",
+  "target_language": "en",
+  "speech_language": "en",
+  "repetitions": 3,
+  "lessons": [
+    "courses/zh-en/lessons/greetings.json",
+    "courses/zh-en/lessons/introduction.json",
+    "courses/zh-en/lessons/daily_life.json"
+  ]
+}
