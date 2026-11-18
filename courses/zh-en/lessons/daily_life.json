@@ -5,52 +5,52 @@
     {
       "source_text": "我餓了。",
       "target_text": "I'm hungry.",
-      "pronunciation": "I'm HUN-gry"
+      "pronunciation": "ㄞˋ ㄇ ㄏㄨㄣˋ ㄍㄌㄧ"
     },
     {
       "source_text": "我渴了。",
       "target_text": "I'm thirsty.",
-      "pronunciation": "I'm THURS-ty"
+      "pronunciation": "ㄞˋ ㄇ ㄙㄜˋ ㄊㄌㄧ"
     },
     {
       "source_text": "我想喝水。",
       "target_text": "I'd like some water.",
-      "pronunciation": "I'd like some WA-ter"
+      "pronunciation": "ㄞˋ ㄉ ㄌㄞˋ ㄎ ㄙㄚˋ ㄇ ㄨㄛˋ ㄊㄜˋ ㄦ"
     },
     {
       "source_text": "多少錢？",
       "target_text": "How much is it?",
-      "pronunciation": "how much is IT"
+      "pronunciation": "ㄏㄠˋ ㄇㄚˋ ㄔ ㄧˋ ㄗ ㄧˋ ㄊ"
     },
     {
       "source_text": "洗手間在哪裡？",
       "target_text": "Where is the restroom?",
-      "pronunciation": "where is the REST-room"
+      "pronunciation": "ㄨㄝˋ ㄦ ㄧˋ ㄗ ㄉ ㄌㄝˋ ㄙㄊㄌㄨˋ ㄇ"
     },
     {
       "source_text": "我不懂。",
       "target_text": "I don't understand.",
-      "pronunciation": "I don't un-der-STAND"
+      "pronunciation": "ㄞˋ ㄉㄡˋ ㄣㄊ ㄨㄣ ㄉㄜˋ ㄙㄊㄢˋ ㄉ"
     },
     {
       "source_text": "請說慢一點。",
       "target_text": "Please speak more slowly.",
-      "pronunciation": "please speak more SLOW-ly"
+      "pronunciation": "ㄆㄌㄧˋ ㄗ ㄙㄆㄧˋ ㄎ ㄇㄛˋ ㄦ ㄙㄌㄡˋ ㄌㄧ"
     },
     {
       "source_text": "可以幫我嗎？",
       "target_text": "Can you help me?",
-      "pronunciation": "can you HELP me"
+      "pronunciation": "ㄎㄢˋ ㄧㄡˋ ㄏㄝˋ ㄌㄆ ㄇㄧˋ"
     },
     {
       "source_text": "現在幾點？",
       "target_text": "What time is it?",
-      "pronunciation": "what TIME is it"
+      "pronunciation": "ㄨㄚˋ ㄊ ㄊㄞˋ ㄇ ㄧˋ ㄗ ㄧˋ ㄊ"
     },
     {
       "source_text": "我們走吧！",
       "target_text": "Let's go!",
-      "pronunciation": "lets GO"
+      "pronunciation": "ㄌㄝˋ ㄊㄙ ㄍㄡˋ"
     }
   ]
 }
