@@ -14,9 +14,9 @@
       "pronunciation": "Issho ni kimasu ka?"
     },
     {
-      "source_text": "Je veux acheter du pain.",
-      "target_text": "パンを買いたいです。",
-      "pronunciation": "Pan o kaitai desu."
+    "source_text": "Je vais acheter du pain.",
+    "target_text": "パンを買いに行きます。",
+    "pronunciation": "Pan o kai ni ikimasu."
     },
     {
       "source_text": "Où est le restaurant de ramen ?",
