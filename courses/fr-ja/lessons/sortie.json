@@ -1,0 +1,52 @@
+
+{
+  "id": "odekake",
+  "title": "Les sorties et la vie quotidienne",
+  "phrases": [
+    {
+      "source_text": "Je vais à la gare.",
+      "target_text": "駅に行きます。",
+      "pronunciation": "Eki ni ikimasu."
+    },
+    {
+      "source_text": "Veux-tu venir avec moi ?",
+      "target_text": "私と一緒に来ませんか？",
+      "pronunciation": "Watashi to issho ni kimasen ka?"
+    },
+    {
+      "source_text": "Je dois acheter du pain.",
+      "target_text": "パンを買わなければなりません。",
+      "pronunciation": "Pan o kawanakereba narimasen."
+    },
+    {
+      "source_text": "Où est le restaurant de ramen le plus proche ?",
+      "target_text": "一番近いラーメン屋はどこですか？",
+      "pronunciation": "Ichiban chikai raamen-ya wa doko desu ka?"
+    },
+    {
+      "source_text": "Allons-y à vélo.",
+      "target_text": "自転車で行きましょう。",
+      "pronunciation": "Jitensha de ikimashou."
+    },
+    {
+      "source_text": "Il ne pleut pas.",
+      "target_text": "雨は降っていません。",
+      "pronunciation": "Ame wa futte imasen."
+    },
+    {
+      "source_text": "Il fait soleil.",
+      "target_text": "晴れています。",
+      "pronunciation": "Harete imasu."
+    },
+    {
+      "source_text": "J'ai faim.",
+      "target_text": "お腹が空きました。",
+      "pronunciation": "Onaka ga sukimashita."
+    },
+    {
+      "source_text": "Tu veux manger avec moi ?",
+      "target_text": "私と一緒に食べませんか？",
+      "pronunciation": "Watashi to issho ni tabemasen ka?"
+    }
+  ]
+}
