@@ -8,6 +8,7 @@
   "repetitions": 3,
 "lessons": [
   "courses/fr-ja/lessons/meeting.json",
+  "courses/fr-ja/lessons/sortie.json",
   "courses/fr-ja/lessons/neighbor.json"
 ]
 }
