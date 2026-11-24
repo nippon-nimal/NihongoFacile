@@ -9,44 +9,44 @@
       "pronunciation": "Eki ni ikimasu."
     },
     {
-      "source_text": "Veux-tu venir avec moi ?",
-      "target_text": "私と一緒に来ませんか？",
-      "pronunciation": "Watashi to issho ni kimasen ka?"
+      "source_text": "Tu viens avec moi ?",
+      "target_text": "一緒に来ますか？",
+      "pronunciation": "Issho ni kimasu ka?"
     },
     {
-      "source_text": "Je dois acheter du pain.",
-      "target_text": "パンを買わなければなりません。",
-      "pronunciation": "Pan o kawanakereba narimasen."
+      "source_text": "Je veux acheter du pain.",
+      "target_text": "パンを買いたいです。",
+      "pronunciation": "Pan o kaitai desu."
     },
     {
-      "source_text": "Où est le restaurant de ramen le plus proche ?",
-      "target_text": "一番近いラーメン屋はどこですか？",
-      "pronunciation": "Ichiban chikai raamen-ya wa doko desu ka?"
+      "source_text": "Où est le restaurant de ramen ?",
+      "target_text": "ラーメン屋はどこですか？",
+      "pronunciation": "Raamen-ya wa doko desu ka?"
     },
     {
-      "source_text": "Allons-y à vélo.",
+      "source_text": "Allons à vélo.",
       "target_text": "自転車で行きましょう。",
       "pronunciation": "Jitensha de ikimashou."
     },
     {
       "source_text": "Il ne pleut pas.",
-      "target_text": "雨は降っていません。",
-      "pronunciation": "Ame wa futte imasen."
+      "target_text": "雨は降りません。",
+      "pronunciation": "Ame wa furimasen."
     },
     {
-      "source_text": "Il fait soleil.",
-      "target_text": "晴れています。",
-      "pronunciation": "Harete imasu."
+      "source_text": "Il fait beau.",
+      "target_text": "いい天気です。",
+      "pronunciation": "Ii tenki desu."
     },
     {
       "source_text": "J'ai faim.",
-      "target_text": "お腹が空きました。",
+      "target_text": "お腹がすきました。",
       "pronunciation": "Onaka ga sukimashita."
     },
     {
       "source_text": "Tu veux manger avec moi ?",
-      "target_text": "私と一緒に食べませんか？",
-      "pronunciation": "Watashi to issho ni tabemasen ka?"
+      "target_text": "一緒に食べますか？",
+      "pronunciation": "Issho ni tabemasu ka?"
     }
   ]
 }
